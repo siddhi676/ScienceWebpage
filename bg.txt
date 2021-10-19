@@ -1,0 +1,19 @@
+<HTML><HEAD><HYPERLINK</TITLE></HEAD>
+<BODY BACKGROUND="VW.jpg"><br>
+<br>
+<br>
+<br>
+<br>
+<FONT FACE="ELEPHANT" color="black" SIZE=5 ALIGN="CENTER">
+<center><br>Fantastical Places On Earth : This magical walkway is called Wisteria Flower tunnel.
+It can be found in the Kawachi Fuji Garden in the city of Kitakyushu, Japan( near Tokyo).
+This stunning garden houses 20 different species of more than 150 flowering Wisteria plants . 
+<br>
+<br>
+<FONT FACE="BRADLEY HAND ITC" color="blue" SIZE=6 ALIGN="LEFT">
+Credit:www.boredpanda.com/amazing-places/
+<BR>
+<BR>
+<BR>
+<A HREF="SCI.HTML">MAIN PAGE</A>
+
